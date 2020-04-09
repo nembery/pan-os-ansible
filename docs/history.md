@@ -1,6 +1,15 @@
 Release History
 ===============
 
+v1.1.1
+------
+
+- *Released*: 2020-04-09
+
+Bug Fixes:
+
+* `panos_admpwd` is now python3 safe
+
 v1.1.0
 ------
 
